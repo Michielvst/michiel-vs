@@ -33,6 +33,7 @@ class Info extends React.Component {
           <h1>Applications</h1>
           <a href="https://michielvs-catch-of-the-day.netlify.com"><img src="./catch-of-the-day.png" alt="Catch of the Day afbeelding" className="appImage"></img></a>
           <a href="https://michielvs-currency-converter.netlify.com"><img src="./currency-convertor.png" alt="Currency Convertor afbeelding" className="appImage"></img></a>
+          <a href="https://michielvs-hearthstone-card-app.netlify.com"><img src="./hearthstone-card-app.png" alt="Hearthstone afbeelding" className="appImage"></img></a>
         </div>
         
       </div>

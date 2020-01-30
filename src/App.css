@@ -45,6 +45,7 @@ img {
 }
 
 .appImage {
-  width: 400px;
+  width: 25vw;
   margin: 15px;
+  height: auto;
 }
