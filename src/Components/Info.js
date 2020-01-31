@@ -15,12 +15,12 @@ class Info extends React.Component {
           </div>
           <div className="contact flexItem">
             <h1>Contact</h1>
-            <ul>
-              <li>Schoolstraat 3</li>
-              <li>9255 Buggenhout</li>
-              <li>+32 476 01 07</li>
-              <li>michiel--vs@outlook.com</li>
-            </ul>
+            <p>
+              Schoolstraat 3
+              <br></br>9255 Buggenhout
+              <br></br>+32 476 01 07
+              <br></br>michiel--vs@outlook.com
+            </p>            
             <a href="https://www.linkedin.com/in/michiel-van-steen-0ba633185/">
               <img src="https://www.siggis.be/wp-content/uploads/2018/01/Linkedin-logo-1-550x550-300x300.png" alt="linkedin"></img>
             </a>
